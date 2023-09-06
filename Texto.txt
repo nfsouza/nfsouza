@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Olá meu nome é Nelson Souza
+=======
+Olá meu nome é Nelson Ferreira
+>>>>>>> staging
 Vou criar a 2° linha de código
 Vou adicionar a 3° linha de código
